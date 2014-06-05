@@ -1,5 +1,4 @@
-notebookscripts [![Picture](https://raw.github.com/janelia-flyem/janelia-flyem.github.com/master/images/gray_janelia_logo.png)](http://janelia.org/)
-##Toolkit for Graph-based Image Segmentation and Analysis
+#notebookscripts [![Picture](https://raw.github.com/janelia-flyem/janelia-flyem.github.com/master/images/gray_janelia_logo.png)](http://janelia.org/)
 ================
 
 Ipython notebook files for FlyEM.
