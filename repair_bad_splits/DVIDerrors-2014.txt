@@ -1,0 +1,487 @@
+2014/07/17 12:35:54 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:54 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:54 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:54 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:55 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128d000062ef (slice 4749) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:56 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:35:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:59 No mapping found for 0000128a0000632f (slice 4746) in block with Z 4736 to 4767
+2014/07/17 12:35:59 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:59 No mapping found for 0000128b0000624d (slice 4747) in block with Z 4736 to 4767
+2014/07/17 12:35:59 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:59 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:35:59 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:35:59 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:35:59 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128b0000624d (slice 4747) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128900006187 (slice 4745) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:36:01 No mapping found for 0000128a0000632f (slice 4746) in block with Z 4736 to 4767
+2014/07/17 12:36:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:20 Processed all 'sp2body' blocks for layer 149/253: 1m39.923343378s
+2014/07/17 12:37:36 No mapping found for 000012be0000627f (slice 4798) in block with Z 4768 to 4799
+2014/07/17 12:37:36 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:36 No mapping found for 000012bf00006421 (slice 4799) in block with Z 4768 to 4799
+2014/07/17 12:37:36 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a900006248 (slice 4777) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012b3000061f6 (slice 4787) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012b50000629f (slice 4789) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:37 No mapping found for 000012b1000060ae (slice 4785) in block with Z 4768 to 4799
+2014/07/17 12:37:37 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:38 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:38 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:39 No mapping found for 000012a30000635e (slice 4771) in block with Z 4768 to 4799
+2014/07/17 12:37:39 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:39 No mapping found for 000012a30000635e (slice 4771) in block with Z 4768 to 4799
+2014/07/17 12:37:39 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:39 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:39 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:39 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:39 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:39 No mapping found for 000012a2000064ec (slice 4770) in block with Z 4768 to 4799
+2014/07/17 12:37:39 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:37:42 No mapping found for 000012a000006405 (slice 4768) in block with Z 4768 to 4799
+2014/07/17 12:37:42 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:41 Processed all 'sp2body' blocks for layer 150/253: 1m21.258290064s
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d6000066be (slice 4822) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d6000066be (slice 4822) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:50 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:50 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:52 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:52 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d900006443 (slice 4825) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d7000065a7 (slice 4823) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:53 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:53 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:54 No mapping found for 000012d400006430 (slice 4820) in block with Z 4800 to 4831
+2014/07/17 12:38:54 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012d500006682 (slice 4821) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012d6000066be (slice 4822) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:55 No mapping found for 000012d6000066be (slice 4822) in block with Z 4800 to 4831
+2014/07/17 12:38:55 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:56 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:56 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:56 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:38:56 No mapping found for 000012c0000063ba (slice 4800) in block with Z 4800 to 4831
+2014/07/17 12:38:56 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:39:51 Processed all 'sp2body' blocks for layer 151/253: 1m9.891877461s
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e200006172 (slice 4834) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e1000063bc (slice 4833) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e1000063bc (slice 4833) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:01 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:01 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 No mapping found for 000012e200006172 (slice 4834) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 No mapping found for 000012e400006219 (slice 4836) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e300006950 (slice 4835) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:02 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:02 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:03 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:03 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:03 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:03 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:03 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:03 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:03 No mapping found for 000012e000006022 (slice 4832) in block with Z 4832 to 4863
+2014/07/17 12:40:03 Aborting processing of 'superpixels' chunk using 'sp2body' labelmap
+2014/07/17 12:40:57 Processed all 'sp2body' blocks for layer 152/253: 1m6.504292918s
+
